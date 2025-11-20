@@ -786,7 +786,7 @@
     <!-- Header -->
     <header>
         <div class="container header-container">
-            <a href="#" class="logo">E<span>Cart</span></a>
+            <a href="#" class="logo">E<span>CartV2</span></a>
             
             <nav id="mainNav">
                 <ul>
